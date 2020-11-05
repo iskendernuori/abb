@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88ca8f74-e82e-48fb-836c-a2945a437018" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jqePKN8VQseenB5Q4COvr04Gjk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/gmibank/utilities" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\isimsiz\IdeaProjects\GmiFramework\src\test\java\gmibank\utilities" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GmiFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gmibank.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="gmibank.runners" />
+      <option name="MAIN_CLASS_NAME" value="gmibank.runners.Runner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Runner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88ca8f74-e82e-48fb-836c-a2945a437018" name="Default Changelist" comment="" />
+      <created>1604536023296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604536023296</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1322" height="369" key="GridCell.Tab.0.bottom" timestamp="1604538249937">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="369" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1604538249937" />
+    <state width="1322" height="369" key="GridCell.Tab.0.center" timestamp="1604538249937">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="369" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1604538249937" />
+    <state width="1322" height="369" key="GridCell.Tab.0.left" timestamp="1604538249936">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="369" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1604538249936" />
+    <state width="1322" height="369" key="GridCell.Tab.0.right" timestamp="1604538249937">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="369" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1604538249937" />
+  </component>
+</project>
